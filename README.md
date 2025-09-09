@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thonti Harshavardhan Raju</h1>
-<h3 align="center">A passionate web developer from Telangana,India</h3>
+<h3 align="center">A passionate web developer from SR University</h3>
 
 - 🔭 I’m currently working on **web development project.**
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thonti harshavardhan raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thonti harshavardhan raju" height="30" width="40" /></a>
-<a href="https://instagram.com/harshavardhan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshavardhan__" height="30" width="40" /></a>
+<a href="https://instagram.com/harshavardhaan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshavardhan__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshavardhan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshavardhan08" height="30" width="40" /></a>
 </p>
 
