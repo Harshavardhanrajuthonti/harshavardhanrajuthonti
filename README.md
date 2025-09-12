@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thonti Harshavardhan Raju</h1>
-<h3 align="center">A passionate web developer from Telangana,India</h3>
+<h3 align="center">A passionate web developer from SR University</h3>
 
 - 🔭 I’m currently working on **web development project.**
 
